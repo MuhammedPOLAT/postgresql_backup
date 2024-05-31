@@ -44,6 +44,6 @@ for %%S in (%SERVERS%) do (
     echo Yedekleme işlemi %%S sunucusu için tamamlandı.
 )
 
-echo Tüm sunucuların veritabanları yedekleme işlemi tamamlandı.
+echo Tüm sunucuların veritabanları yedekleme işlemi tamamlandı. www.muhammedpolat.com.tr
 
 exit
