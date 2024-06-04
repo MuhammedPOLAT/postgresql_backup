@@ -1,7 +1,7 @@
 # PostgreSQL Zamanlanmış Otomatik Güvenli Yedekleme / PostgreSQL Scheduled Automatic Secure Backup
 
 31.05.2024 - *Muhammed POLAT*
->www.muhammedpolat.com.tr
+>https://www.muhammedpolat.com.tr/postgresql-zamanlanmis-otomatik-guvenli-yedekleme/
 
 ## [TR] - Gereksinimler
 Gereksinimler:
